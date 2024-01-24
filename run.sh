@@ -6,5 +6,5 @@ verilator --cc         -Wall -Wno-UNUSEDSIGNAL -Wno-UNDRIVEN --exe --build tb_ba
 
 echo notrace
 obj_dir/Vtop
-echo notrace
+echo trace
 obj_dir_trace/Vtop
