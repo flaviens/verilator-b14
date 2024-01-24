@@ -15,7 +15,7 @@ Actual output:
 ```bash
 notrace
 Output[32]  0
-notrace
+trace
 Output[32]  1
 ```
 
